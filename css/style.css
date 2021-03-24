@@ -23,6 +23,8 @@
 
 jb-flex {
     display: flex;
+    justify-content: ;
+    align-content: ;
 }
 
 .ac-padding {
