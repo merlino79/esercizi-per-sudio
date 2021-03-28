@@ -19,3 +19,13 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+main {
+    height: 100vh;
+    background-color: lawngreen;
+}
+
+footer {
+    height: 200px;
+    background-color: red;
+}
